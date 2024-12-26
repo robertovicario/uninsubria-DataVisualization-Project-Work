@@ -28,8 +28,8 @@ regression_line = slope * dates + intercept
 fig, ax = plt.subplots(figsize=(10, 6))
 
 candlestick_ohlc(ax, ohlc_data, width=0.5, colorup='green', colordown='red')
-ax.axhline(highest_value, color='green', linestyle='--', linewidth=1, label=f'Highest: {highest_value:.2f}')
-ax.axhline(lowest_value, color='red', linestyle='--', linewidth=1, label=f'Lowest: {lowest_value:.2f}')
+ax.axhline(highest_value, color='green', linestyle='--', linewidth=1, label=f'Highest: {highest_value}')
+ax.axhline(lowest_value, color='red', linestyle='--', linewidth=1, label=f'Lowest: {lowest_value}')
 ax.plot(dates, regression_line, color='blue', linestyle='--', linewidth=1, label='Regression Line')
 
 # Format the x-axis
