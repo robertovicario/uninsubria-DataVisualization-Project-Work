@@ -1,5 +1,8 @@
-numpy
 matplotlib
-mplfinance
+numpy
 pandas
-kaggle
+Pillow
+mplfinance
+wordcloud
+requests
+bokeh
