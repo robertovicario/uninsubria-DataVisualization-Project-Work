@@ -1,8 +1,9 @@
-matplotlib
 numpy
 pandas
+matplotlib
 Pillow
-mplfinance
 wordcloud
-requests
 bokeh
+mplfinance
+requests
+IPython
