@@ -1,9 +1,10 @@
+matplotlib
+nltk
 numpy
 pandas
-matplotlib
-Pillow
+requests
+pillow
 wordcloud
 bokeh
+ipython
 mplfinance
-requests
-IPython
