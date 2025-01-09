@@ -6,7 +6,7 @@ For those who may not know, **_Elon Musk_** is one of the world's most influenti
 
 > [!NOTE]
 >
-> This _Project Work_ received a score of 30/30 in the _Data Visualization_ module in the _MSc in Computer Science_ program in _Varese_.
+> This _Project Work_ received a score of **_30/30_** in the _Data Visualization_ module in the _MSc in Computer Science_ program in _Varese_.
 
 ## Preview
 
