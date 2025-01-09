@@ -8,8 +8,8 @@ For those who may not know, **_Elon Musk_** is one of the world's most influenti
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/report.png" width="512"></td>
-        <td><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/notebook.png" width="512"></td>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/report.png" width="256"></td>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/notebook.png" width="256"></td>
     </tr>
     <tr>
         <td align="center"><strong>Report</strong></td>
