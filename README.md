@@ -6,7 +6,16 @@ For those who may not know, **_Elon Musk_** is one of the world's most influenti
 
 ## Preview
 
-.![Screenshot 2025-01-09 alle 16 15 22-cutout](https://github.com/user-attachments/assets/44a3493a-4235-4ffd-bd2d-89ac18071320)
+<table>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/report.png" width="512"></td>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/notebook.png" width="512"></td>
+    </tr>
+    <tr>
+        <td align="center"><strong>Report</strong></td>
+        <td align="center"><strong>Notebook</strong></td>
+    </tr>
+</table>
 
 ## License
 
