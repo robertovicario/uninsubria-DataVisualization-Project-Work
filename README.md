@@ -12,7 +12,7 @@ For those who may not know, **_Elon Musk_** is one of the world's most influenti
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/report.png" width="256"></td>
+        <td><a href="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/The_Musk_Effect_on_Dogecoin__A_Data_Driven_Analysis.pdf"><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/report.png" width="256"></td></a>
         <td><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/notebook.png" width="256"></td>
     </tr>
     <tr>
