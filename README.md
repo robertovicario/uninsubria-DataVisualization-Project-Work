@@ -2,11 +2,11 @@
 
 ## Abstract
 
-For those who may not know, **_Elon Musk_** is one of the world's most influential and richest people. He owns companies like _Tesla_, _SpaceX_, and the social platform _X_ (formerly _Twitter_). His name is also linked to companies like _OpenAI_. Following various events in the stock market, the community coined the term **_"Musk Effect"_** to describe Elon Musk's ability to significantly move markets, sometimes with just a single **_Tweet_**. In this presentation, I will cover some episodes specifically focusing on **_Dogecoin_**, a cryptocurrency famously supported by Elon Musk.
+For those who may not know, _Elon Musk_ is one of the world's most influential and richest people. He owns companies like _Tesla_, _SpaceX_, and the social platform _X_ (formerly _Twitter_). His name is also linked to companies like _OpenAI_. Following various events in the stock market, the community coined the term _"Musk Effect"_ to describe Elon Musk's ability to significantly move markets, sometimes with just a single tweet. In this presentation, I will cover some episodes specifically focusing on _Dogecoin_, a cryptocurrency famously supported by Elon Musk.
 
 > [!IMPORTANT]
 >
-> This _Project Work_ received a score of **_30/30_** in the _Data Visualization_ module in the _MSc in Computer Science_ program in _Varese_.
+> This _Project Work_ received a score of _30/30_ in the _Data Visualization_ module in the _MSc in Computer Science_ program in Varese.
 
 ## Preview
 
