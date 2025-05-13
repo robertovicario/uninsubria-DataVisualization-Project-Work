@@ -18,9 +18,7 @@ For those who may not know, **_Elon Musk_** is one of the world's most influenti
 
 > [!WARNING]
 >
-> Please use this project responsibly, it was created by me for an exam session that I completed at _University of Insubria_.
->
-> If you use or reference this project, please cite it as follows:
+> Please use this project responsibly, it was created by me for an exam session that I completed at _University of Insubria_. If you use or reference this project, please cite it as follows:
 >
 > ```bib
 > @misc{vicario2025datavisualization,
