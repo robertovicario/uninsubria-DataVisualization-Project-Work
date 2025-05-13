@@ -10,34 +10,27 @@ For those who may not know, **_Elon Musk_** is one of the world's most influenti
 
 ## Preview
 
-<table>
-    <tr>
-        <td><a href="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/The_Musk_Effect_on_Dogecoin__A_Data_Driven_Analysis.pdf"><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/report.png" width="256"></td></a>
-        <td><a href="#"><img src="https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/img/notebook.png" width="256"></td></a>
-    </tr>
-    <tr>
-        <td align="center"><strong>Report</strong></td>
-        <td align="center"><strong>Notebook</strong></td>
-    </tr>
-</table>
+| <a href="[https://www.robertovicario.com](https://raw.githubusercontent.com/robertovicario/uninsubria-DataVisualization-Project-Work/main/docs/The_Musk_Effect_on_Dogecoin__A_Data_Driven_Analysis.pdf)"><img src="./docs/img/report.png" alt="Report" width="256"></a> | <a href="#"><img src="./docs/img/notebook.png" alt="Notebook" width="256"></a> |
+| :-: | :-: |
+| **Report** | **Notebook** |
 
-## License
-
-This project is distributed under [GNU General Public License version 3](https://opensource.org/license/gpl-3-0). You can find the complete text of the license in the project repository.
-
-### Credits
+## Credits
 
 > [!WARNING]
 >
 > Please use this project responsibly, it was created by me for an exam session that I completed at _University of Insubria_.
+>
+> If you use or reference this project, please cite it as follows:
+>
+> ```bib
+> @misc{vicario2025datavisualization,
+>     author    = {R. Vicario},
+>     title     = {uninsubria-DataVisualization-Project-Work},
+>     year      = {2025},
+>     url       = {https://github.com/robertovicario/uninsubria-DataVisualization-Project-Work}
+> }
+> ```
 
-If you use or reference this project, please cite it as follows:
+## License
 
-```bib
-@misc{vicario2025datavisualization,
-  author    = {R. Vicario},
-  title     = {uninsubria-DataVisualization-Project-Work},
-  year      = {2025},
-  url       = {https://github.com/robertovicario/uninsubria-DataVisualization-Project-Work}
-}
-```
+This project is distributed under [GNU General Public License version 3](https://opensource.org/license/gpl-3-0). You can find the complete text of the license in the project repository.
